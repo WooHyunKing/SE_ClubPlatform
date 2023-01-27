@@ -1,6 +1,6 @@
 # Mo-Ajou
 
-> 교내 동아리 활동 체계화를 위한 동아리 운영 플랫폼 🍽
+> 교내 동아리 활동 체계화를 위한 동아리 운영 플랫폼 👥
 
 ## 프로젝트 소개 📝
 
@@ -24,9 +24,13 @@
 
 <img src="./frontend/SE_ClubPlatform_App/images/Architecture2.png">
 
+<br/>
+
 ## 협업 툴 🧑🏻‍💻
 
 <img src="./frontend/SE_ClubPlatform_App/images/Tool.png">
+
+<br/>
 
 ## 프로젝트 기능 & 페이지 구성 📱
 
